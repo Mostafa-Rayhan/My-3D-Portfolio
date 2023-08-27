@@ -1,14 +1,12 @@
 
 import './App.css'
 
-function App() {
-
-
+const App = () => {
   return (
     <>
-      
+      <p>Rayhan</p>
     </>
   )
 }
 
-export default App
+export default App;
